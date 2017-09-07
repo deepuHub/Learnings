@@ -1,2 +1,1 @@
-# Learnings
-All my learnings with course links so that I have a track of them. 
+### This repo is created to record My Book Readings, Course Learnings and Interests.
