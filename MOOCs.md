@@ -5,7 +5,7 @@ I believe its a **BOON** to have **MOOCs**. I truly admire the founders of MOOCs
 Course Name | Through | By | My Respected Tutor | Start Date | End Date | Comments | Additional Comments
 ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera Inc. | University of California, San Diego | Dr. Barbara Oakley, Dr. Terrence Sejnowski | 21-Apr-2017 | 21-May-2017 | For me, it was an Eye opener | 
-
+Calculus One | Coursera Inc. | The Ohio State University | Jim Fowler | 12-Jun-2017 | In progress | | Jim Sir brings in so much of energy and enthusiasm to the classes. 
 
 
 *“Tell me and I forget, teach me and I may remember, involve me and I learn.”*
@@ -17,3 +17,6 @@ never give up,
 never stop trying, and
 never stop learning.”*
 **― Roy T. Bennett** 
+
+I have planned my future Courses and I shall put them here soon .. 
+
