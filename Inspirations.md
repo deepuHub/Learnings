@@ -9,13 +9,8 @@ S.No | Article | Got it On
 *“Tell me and I forget, teach me and I may remember, involve me and I learn.”*
 **― Benjamin Franklin**
 
-*“Never stop dreaming,
-Never stop believing,
-Never give up,
-Never stop trying, and
-Never stop learning.”*
-**― Roy T. Bennett** 
+*“Never stop Dreaming, Never stop Believing, Never give Up, Never stop Trying, and Never stop Learning.”* **― Roy T. Bennett** 
 
-*"My ignorance is far beyond my reach, So I keep learning"* **- Anonymous** 
+*"My Ignorance is far beyond my reach, So I keep Learning"* **- Anonymous** 
 
 *"Believe in your Brain if not in yourself, either way its Magical!!"* **- Anonymous**
