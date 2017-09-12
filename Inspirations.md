@@ -16,3 +16,6 @@ Never stop trying, and
 Never stop learning.”*
 **― Roy T. Bennett** 
 
+*"My ignorance is far beyond my reach, So I keep learning"* **- Anonymous** 
+
+*"Believe in your Brain if not in yourself, either way its Magical!!"* **- Anonymous**
