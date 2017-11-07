@@ -17,5 +17,5 @@ S.No | Course Name | Through | By | My Respected Tutor | Start Date | End Date |
 
 S.No | Article Name | Start Date | End Date | Comments 
 ------------ | ------------ | ------------ | ------------ | ------------ 
-1| Machine Learning is fun - [Part 1 - to Part 8!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) | 05-Nov-2017(1 & 2) | | These parts can be done before starting the Machine Learing course 
+1| Machine Learning is fun - [Part 1 - to Part 8!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) | 05-Nov-2017(1 & 2), 06-Nov-2017(3),  | | These parts can be done before starting the Machine Learing course 
 
