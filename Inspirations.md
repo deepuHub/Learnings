@@ -1,10 +1,10 @@
 **Get Inspired and Find your Passion!!** *Sooner the Funnier... :-)*
 
-S.No | Article | Got it On
+S.No | Article | Got inspired in
 ------------ | ------------ | ------------
-1 | [Claude Shannon’s “Creative Thinking” Speech: A Genius Reveals How To Be Creative](https://medium.com/the-mission/a-genius-explains-how-to-be-creative-claude-shannons-long-lost-1952-speech-fbbcb2ebe07f) | 
-2 | [Connecting the dots](http://blog.bradleygauthier.com/connecting-the-dots/) | 
-3 | [Warren Buffett’s “2 List” Strategy](http://jamesclear.com/buffett-focus)
+1 | [Claude Shannon’s “Creative Thinking” Speech: A Genius Reveals How To Be Creative](https://medium.com/the-mission/a-genius-explains-how-to-be-creative-claude-shannons-long-lost-1952-speech-fbbcb2ebe07f) | 2017
+2 | [Connecting the dots](http://blog.bradleygauthier.com/connecting-the-dots/) | 2017
+3 | [Warren Buffett’s “2 List” Strategy](http://jamesclear.com/buffett-focus) | 2017 
 
 *"My Ignorance is far beyond my reach, So I keep Learning"* **- Anonymous** 
 
